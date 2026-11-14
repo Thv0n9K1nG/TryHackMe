@@ -1,0 +1,3 @@
+| Tên đề tài | Mô tả chi tiết / yêu cầu | Ví dụ minh họa / dữ liệu / URL | 
+| --- | --- | --- | 
+| Early-warning sinh viên có nguy cơ học kém/rớt môn | Dùng dữ liệu học tập anonymized hoặc OULAD: điểm quá trình, thời điểm nộp bài, tương tác LMS theo tuần. Mục tiêu dự đoán sớm ở tuần 3/5/7, không dùng feature tương lai. So sánh logistic/tree boosting/time-aware model; đánh giá recall của nhóm risk, calibration và fairness. Output là cảnh báo hỗ trợ, không gắn nhãn năng lực cá nhân. | "OULAD: https://research.stem.open.ac.uk/ouanalyse/dataset/ Ví dụ: tuần 5 risk=0.74 vì giảm VLE activity + trễ 2 bài; đề xuất giảng viên kiểm tra, không tự động xử phạt." |
