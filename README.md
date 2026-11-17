@@ -7,7 +7,9 @@ This repository acts as my personal tracker for learning cybersecurity on **TryH
 
 ---
 
-## Completed Rooms Tracker
+*(Status Legend: `Walkthrough` = Guided learning room | `Challenge` = CTF-style box)*
+
+## Completed Walksthroughs Tracker
 
 | # | Room Name | Type | Difficulty | Focus / Tags | Write-up |
 | :- | :--- | :--- | :--- | :--- | :--- |
@@ -15,7 +17,11 @@ This repository acts as my personal tracker for learning cybersecurity on **TryH
 | 02 | *Example: Pickle Rick* | Challenge | Easy | Web Exploitation | [View Note](./path/to/file.md) |
 | 03 | ... | ... | ... | ... | ... |
 
-*(Status Legend: `Walkthrough` = Guided learning room | `Challenge` = CTF-style box)*
+## Completed Challenges Tracker
+
+| # | Room Name | Type | Difficulty | Focus / Tags | Write-up |
+| :- | :--- | :--- | :--- | :--- | :--- |
+| 01 | *Example: Vulnversity* | Walkthrough | Easy | Recon, PrivEsc | [View Note](./path/to/file.md) |
 
 ---
 
