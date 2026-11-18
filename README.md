@@ -7,21 +7,21 @@ This repository acts as my personal tracker for learning cybersecurity on **TryH
 
 ---
 
-*(Status Legend: `Walkthrough` = Guided learning room | `Challenge` = CTF-style box)*
-
 ## Completed Walksthroughs Tracker
 
 | # | Room Name | Type | Difficulty | Focus / Tags | Write-up |
 | :- | :--- | :--- | :--- | :--- | :--- |
 | 01 | *Example: Vulnversity* | Walkthrough | Easy | Recon, PrivEsc | [View Note](./path/to/file.md) |
-| 02 | *Example: Pickle Rick* | Challenge | Easy | Web Exploitation | [View Note](./path/to/file.md) |
-| 03 | ... | ... | ... | ... | ... |
+| 02 | CSRF Introduction | Red | Easy | Web Exploitation | [View Note](Walkthroughs/PATH-07-JR_PENETRATION-TESTER/MODULE07_Web_Application_Vulnerabilities_I/Room02_CSRFIntroduction.md) |
+| 03 | XSS Introduction | ... | ... | ... | ... |
 
 ## Completed Challenges Tracker
 
 | # | Room Name | Type | Difficulty | Focus / Tags | Write-up |
 | :- | :--- | :--- | :--- | :--- | :--- |
 | 01 | *Example: Vulnversity* | Walkthrough | Easy | Recon, PrivEsc | [View Note](./path/to/file.md) |
+
+*(Status Legend: `Walkthrough` = Guided learning room | `Challenge` = CTF-style box)*
 
 ---
 
