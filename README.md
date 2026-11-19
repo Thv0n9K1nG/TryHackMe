@@ -9,18 +9,20 @@ This repository acts as my personal tracker for learning cybersecurity on **TryH
 
 ## Completed Walksthroughs Tracker
 
-| # | Room Name | Type | Difficulty | Focus / Tags | Write-up |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 01 | *Example: Vulnversity* | Walkthrough | Easy | Recon, PrivEsc | [View Note](./path/to/file.md) |
-| 02 | CSRF Introduction | Red | Easy | Web Exploitation | [View Note](Walkthroughs/PATH07_JR_PENETRATION-TESTER/MODULE07_Web_Application_Vulnerabilities_I/Room02_CSRFIntroduction.md) |
-| 03 | XSS Introduction | Red | Medium | Web Exploitation | [View Note](Walkthroughs\PATH07_JR_PENETRATION_TESTER\MODULE07_Web_Application_Vulnerabilities_I\Room03_XSS_Introduction.md) |
-| 04 | ... | ... | ... | ... | [View Note](url) |
+| # | Room Name | Type | Difficulty | Focus / Tags | Completion Date | Write-up |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 01 | *Example: Vulnversity* | Walkthrough | Easy | Recon, PrivEsc | YYYY-MM-DD | [View Note](./path/to/file.md) |
+| 02 | CSRF Introduction | Red | Easy | Web Exploitation | 2026-11-17 | [View Note](Walkthroughs/PATH07_JR_PENETRATION-TESTER/MODULE07_Web_Application_Vulnerabilities_I/Room02_CSRFIntroduction.md) |
+| 03 | XSS Introduction | Red | Medium | Web Exploitation | 2026-11-18 | [View Note](Walkthroughs\PATH07_JR_PENETRATION_TESTER\MODULE07_Web_Application_Vulnerabilities_I\Room03_XSS_Introduction.md) |
+| 04 | - | - | - | - | - | [View Note](url) |
 
 ## Completed Challenges Tracker
 
-| # | Room Name | Type | Difficulty | Focus / Tags | Write-up |
-| :- | :--- | :--- | :--- | :--- | :--- |
-| 01 | *Example: Vulnversity* | Walkthrough | Easy | Recon, PrivEsc | [View Note](./path/to/file.md) |
+| # | Room Name | Type | Difficulty | Focus / Tags | Completion Date | Write-up |
+| :- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 01 | *Example: Vulnversity* | Blue | Easy | Recon, PrivEsc | YYYY-MM-DD | [View Note](./path/to/file.md) |
+| 02 | Recruit | Red | Medium | Web Exploitation | 2026-11-18 | [View Note](./path/to/file.md) | 
+| 03 | Red | - | - | - | - | [View Note](./path/to/file.md) | 
 
 *(Status Legend: `Walkthrough` = Guided learning room | `Challenge` = CTF-style box)*
 
