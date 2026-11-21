@@ -12,9 +12,9 @@ This repository acts as my personal tracker for learning cybersecurity on **TryH
 | # | Room Name | Type | Difficulty | Focus / Tags | Completion Date | Write-up |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 01 | *Example: Vulnversity* | Walkthrough | Easy | Recon, PrivEsc | YYYY-MM-DD | [View Note](./path/to/file.md) |
-| 02 | CSRF Introduction | Red | Easy | Web Exploitation | 2026-11-17 | [View Note](Walkthroughs/PATH07_JR_PENETRATION-TESTER/MODULE07_Web_Application_Vulnerabilities_I/Room02_CSRFIntroduction.md) |
-| 03 | XSS Introduction | Red | Medium | Web Exploitation | 2026-11-18 | [View Note](Walkthroughs\PATH07_JR_PENETRATION_TESTER\MODULE07_Web_Application_Vulnerabilities_I\Room03_XSS_Introduction.md) |
-| 04 | Broken Authentication | Red | Easy | Auth Bypass | 2026-11-20 | [View Note](Walkthroughs\PATH07_JR_PENETRATION_TESTER\MODULE08_Web_Application_Vulnerabilities_II\Broken_Authentication.md) |
+| 02 | CSRF Introduction | Red | Easy | Web Exploitation | 2026-11-17 | [View Note](./Walkthroughs/PATH07_JR_PENETRATION-TESTER/MODULE07_Web_Application_Vulnerabilities_I/Room02_CSRFIntroduction.md) |
+| 03 | XSS Introduction | Red | Medium | Web Exploitation | 2026-11-18 | [View Note](./Walkthroughs/PATH07_JR_PENETRATION_TESTER/MODULE07_Web_Application_Vulnerabilities_I/Room03_XSS_Introduction.md) |
+| 04 | Broken Authentication | Red | Easy | Auth Bypass | 2026-11-20 | [View Note](./Walkthroughs/PATH07_JR_PENETRATION_TESTER/MODULE08_Web_Application_Vulnerabilities_II/Broken_Authentication.md) |
 | 05 | - | - | - | - | - | [View Note](url) | 
 
 
@@ -23,7 +23,7 @@ This repository acts as my personal tracker for learning cybersecurity on **TryH
 | # | Room Name | Type | Difficulty | Focus / Tags | Completion Date | Write-up |
 | :- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 01 | *Example: Vulnversity* | Blue | Easy | Recon, PrivEsc | YYYY-MM-DD | [View Note](./path/to/file.md) |
-| 02 | Recruit | Red | Medium | Web Exploitation | 2026-11-19 | [View Note](Challenges\Recruit.md) | 
+| 02 | Recruit | Red | Medium | Web Exploitation | 2026-11-19 | [View Note](./Challenges/Recruit.md) | 
 | 03 | - | - | - | - | - | [View Note](url) | 
 
 *(Status Legend: `Walkthrough` = Guided learning room | `Challenge` = CTF-style box)*
