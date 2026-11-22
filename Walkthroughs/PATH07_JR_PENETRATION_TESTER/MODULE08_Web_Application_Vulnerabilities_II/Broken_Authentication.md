@@ -337,4 +337,4 @@ I can now exploit broken authentications!
 
 ---
 
-21/11/2026
+21/11/2026 * Thv0n9K1nG
