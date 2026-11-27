@@ -11,7 +11,7 @@ This learning path covers the fundamental skills that will allow you to succeed 
 - Hands-on web, network and AD hacking
 - Learn core tools used in cybersecurity
 
----
+## Contents
 
 This path covers these modules:
 

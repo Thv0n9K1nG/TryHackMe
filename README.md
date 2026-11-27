@@ -16,8 +16,11 @@ This repository acts as my personal tracker for learning cybersecurity on **TryH
 | 03 | XSS Introduction | Red | Medium | Web Exploitation | 2026-11-18 | [View Note](./Walkthroughs/PATH07_JR_PENETRATION_TESTER/MODULE07_Web_Application_Vulnerabilities_I/Room03_XSS_Introduction.md) |
 | 04 | Broken Authentication | Red | Easy | Auth Bypass | 2026-11-20 | [View Note](./Walkthroughs/PATH07_JR_PENETRATION_TESTER/MODULE08_Web_Application_Vulnerabilities_II/Broken_Authentication.md) |
 | 05 | API Pentesting | Red | easy | API, PriveEsc | 2026-11-24 | [View Note](./Walkthroughs/PATH07_JR_PENETRATION_TESTER/MODULE08_Web_Application_Vulnerabilities_II/API_Pentesting.md) | 
-| 06 | Understanding Vulnerability Databases | RED | Easy | Vuln Knowledge | 2026-11-26 | [View Note](./Walkthroughs/PATH07_JR_PENETRATION_TESTER/MODULE09_Vulnerability_Knowledge/Understanding_Vulnerability_Databases.md) | 
-| 07 | - | - | - | - | - | [View Note](url) | 
+| 06 | Understanding Vulnerability Databases | Red | Easy | Vuln Knowledge | 2026-11-26 | [View Note](./Walkthroughs/PATH07_JR_PENETRATION_TESTER/MODULE09_Vulnerability_Knowledge/Understanding_Vulnerability_Databases.md) | 
+| 07 | Vulnerability Scanning Tools | Red | Medium | Scanning Tools | 2026-11-27 | [View Note](./Walkthroughs/PATH07_JR_PENETRATION_TESTER/MODULE09_Vulnerability_Knowledge/Vulnerability_Scanning_Tools.md) | 
+| 08 | Basic Vulnerability Identification Techniques | Red | Easy | Vuln Identifying | 2026-11-27 | [View Note](url) | 
+| 09 | - | - | - | - | - | [View Note](url) | 
+
 
 ## Completed Challenges Tracker
 
