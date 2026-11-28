@@ -20,8 +20,9 @@ This repository acts as my personal tracker for learning cybersecurity on **TryH
 | 07 | Vulnerability Scanning Tools | Red | Medium | Scanning Tools | 2026-11-27 | [View Note](./Walkthroughs/PATH07_JR_PENETRATION_TESTER/MODULE09_Vulnerability_Knowledge/Vulnerability_Scanning_Tools.md) | 
 | 08 | Basic Vulnerability Identification Techniques | Red | Easy | Vuln Identifying | 2026-11-28 | [View Note](./Walkthroughs/PATH07_JR_PENETRATION_TESTER/MODULE09_Vulnerability_Knowledge/Basic_Vulnerability_Identification_Techniques.md) | 
 | 09 | NoScope: Finding RCE | Red | Medium | CVE | 2026-11-28 | [View Note](./Walkthroughs/PATH07_JR_PENETRATION_TESTER/MODULE09_Vulnerability_Knowledge/NoScope_Finding_RCE.md) | 
-| 010 | - | - | - | - | - | [View Note](url) | 
+| 010 | n8n: CVE-2025-68613 | Red | Easy | CVE | 2026-11-28 | [View Note](./Walkthroughs/PATH07_JR_PENETRATION_TESTER/MODULE09_Vulnerability_Knowledge/n8n_CVE-2025-68613.md) | 
 | 011 | - | - | - | - | - | [View Note](url) | 
+| 012 | - | - | - | - | - | [View Note](url) | 
 
 ## Completed Challenges Tracker
 
