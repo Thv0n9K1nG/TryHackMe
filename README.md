@@ -18,12 +18,10 @@ This repository acts as my personal tracker for learning cybersecurity on **TryH
 | 05 | API Pentesting | Red | easy | API, PriveEsc | 2026-11-24 | [View Note](./Walkthroughs/PATH07_JR_PENETRATION_TESTER/MODULE08_Web_Application_Vulnerabilities_II/API_Pentesting.md) | 
 | 06 | Understanding Vulnerability Databases | Red | Easy | Vuln Knowledge | 2026-11-26 | [View Note](./Walkthroughs/PATH07_JR_PENETRATION_TESTER/MODULE09_Vulnerability_Knowledge/Understanding_Vulnerability_Databases.md) | 
 | 07 | Vulnerability Scanning Tools | Red | Medium | Scanning Tools | 2026-11-27 | [View Note](./Walkthroughs/PATH07_JR_PENETRATION_TESTER/MODULE09_Vulnerability_Knowledge/Vulnerability_Scanning_Tools.md) | 
-| 08 | Basic Vulnerability Identification Techniques | Red | Easy | Vuln Identifying | 2026-11-27 | [View Note](url) | 
-| 09 | Basic Vulnerability Identification Techniques | Red | easy | Vuln Identifying | 2026-11-28 | [View Note](./Walkthroughs/PATH07_JR_PENETRATION_TESTER/MODULE09_Vulnerability_Knowledge/Basic_Vulnerability_Identification_Techniques.md) | 
+| 08 | Basic Vulnerability Identification Techniques | Red | Easy | Vuln Identifying | 2026-11-28 | [View Note](./Walkthroughs/PATH07_JR_PENETRATION_TESTER/MODULE09_Vulnerability_Knowledge/Basic_Vulnerability_Identification_Techniques.md) | 
+| 09 | NoScope: Finding RCE | Red | Medium | CVE | 2026-11-28 | [View Note](./Walkthroughs/PATH07_JR_PENETRATION_TESTER/MODULE09_Vulnerability_Knowledge/NoScope_Finding_RCE.md) | 
 | 010 | - | - | - | - | - | [View Note](url) | 
 | 011 | - | - | - | - | - | [View Note](url) | 
-
-
 
 ## Completed Challenges Tracker
 
